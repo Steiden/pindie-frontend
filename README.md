@@ -1,1 +1,0 @@
-Мой бекенд: https://pindie-server.nomorepartiesco.ru
